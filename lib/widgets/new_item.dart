@@ -86,6 +86,7 @@ class _NewItemState extends State<NewItem> {
                   _enteredName = value!;
                 },
               ),
+              
               Row(
                 crossAxisAlignment: CrossAxisAlignment.end,
                 children: [
